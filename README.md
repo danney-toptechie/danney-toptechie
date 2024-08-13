@@ -17,8 +17,3 @@
 # 💻 Tech Stack:
 
 ![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E) ![Next](https://img.shields.io/badge/next-%23323330.svg?style=for-the-badge&logo=next&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Typescript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwind-%23563D7C.svg?style=for-the-badge&logo=tailwind&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%2300f.svg?style=for-the-badge&logo=firebase&logoColor=white) ![Supabase](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-# 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-bento.vercel.app/stats/username)
-<br/>
