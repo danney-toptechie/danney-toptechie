@@ -20,5 +20,5 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![GitHub Stats](https://github-readme-bento.vercel.app/stats/username)
 <br/>
