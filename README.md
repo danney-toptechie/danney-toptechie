@@ -1,7 +1,6 @@
 <div align="center">
 
-  <h3>A software developer.<h3>
-  <h5>Looking for my new role.<h5>
+  <h1>Full Stack Developer(FE-Heavy)<h1>
    
 <p>Focus on clientele-oriented programming and work as a full-stack web developer for 8+ years. Have specialties in creating user interfaces with React, Next + MUI, Chakra UI, TailwindCSS/Headless UI, developing back-end and integrating APIs with NodeJS, Next and troubleshooting issues. In addition to my knowledge base, I actively seek out new technologies and stay up-to-date on industry trends and advancements. This has allowed me to stay ahead of the curve and deliver exceptional work to all of my employers, including those I've worked for on a project basis.<p>
     
