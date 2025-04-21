@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Full Stack Developer(FE-Heavy) & Blockchain Developer & Solidity Expert</h1>
+  <h1>Blockchain Developer & Solidity Expert</h1>
    
 <p>Highly skilled Blockchain Developer with over 8 years of experience in full-stack Web2 development and 3 years in Web3 technologies. Proficient in a wide range of programming languages and frameworks, with a strong foundation in system architecture, database management, and scalable application design. Experienced in collaborating with cross-functional teams and leveraging Git-based workflows to deliver robust, high-quality software solutions.<p>
 </div>
